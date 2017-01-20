@@ -1,0 +1,6 @@
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\Data Types and Variables - Exercises.exe.config
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\Data Types and Variables - Exercises.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\bin\Debug\Data Types and Variables - Exercises.pdb
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\01. PracticeIntegers.csprojResolveAssemblyReference.cache
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\Data Types and Variables - Exercises.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\Data Types and Variables - Exercises\obj\Debug\Data Types and Variables - Exercises.pdb

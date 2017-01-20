@@ -1,0 +1,6 @@
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.exe.config
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\bin\Debug\_19.TheaThePhotographer.pdb
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\obj\Debug\19. TheaThePhotographer.csprojResolveAssemblyReference.cache
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\obj\Debug\_19.TheaThePhotographer.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\19. TheaThePhotographer\obj\Debug\_19.TheaThePhotographer.pdb

@@ -1,0 +1,5 @@
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe.config
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.pdb

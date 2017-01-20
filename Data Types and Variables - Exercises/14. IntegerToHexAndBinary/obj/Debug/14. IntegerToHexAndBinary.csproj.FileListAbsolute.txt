@@ -1,0 +1,5 @@
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\bin\Debug\_14.IntegerToHexAndBinary.exe.config
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\bin\Debug\_14.IntegerToHexAndBinary.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\bin\Debug\_14.IntegerToHexAndBinary.pdb
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.pdb
