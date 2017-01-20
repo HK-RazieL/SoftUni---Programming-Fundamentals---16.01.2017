@@ -14,9 +14,9 @@ namespace _09.ReversedChars
             var secondChar = char.Parse(Console.ReadLine());
             var thirdChar = char.Parse(Console.ReadLine());
 
-            Console.WriteLine(thirdChar);
-            Console.WriteLine(secondChar);
-            Console.WriteLine(firstChar);
+            Console.Write(thirdChar);
+            Console.Write(secondChar);
+            Console.Write(firstChar);
         }
     }
 }

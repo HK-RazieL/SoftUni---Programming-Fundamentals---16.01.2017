@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFo
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.pdb
