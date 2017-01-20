@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,18 +11,20 @@ namespace _18.DifferentIntegersSize
     {
         static void Main(string[] args)
         {
-            var number = long.Parse(Console.ReadLine());
+            BigInteger number = BigInteger.Parse(Console.ReadLine());
 
-            Console.WriteLine($"{number} can fit in:");
+            if (number < long.MinValue || number > long.MaxValue)
+            {
+                Console.Write(number);
+                Console.WriteLine(" can't fit in any type");
+            }
+            else
+            {
+                Console.WriteLine($"{number} can fit in:");
 
-            if (number >= -128 && number <= 127)
+                if (number >= -128 && number <= 127)
                 {
                     Console.WriteLine("* sbyte");
-                }
-
-                if (number >= -32768 && number <= 32767)
-                {
-                    Console.WriteLine("* short");
                 }
 
                 if (number >= 0 && number <= 255)
@@ -29,32 +32,33 @@ namespace _18.DifferentIntegersSize
                     Console.WriteLine("* byte");
                 }
 
-                if (number >= 0 && number <= 65535)
+                if (number >= -32768 && number <= 32767)
+                {
+                    Console.WriteLine("* short");
+                }
+
+                if (number >= 0 && number <= ushort.MaxValue)
                 {
                     Console.WriteLine("* ushort");
                 }
 
-                if (number >= -2147483648 && number <= 2147483647)
+                if (number >= int.MinValue && number <= int.MaxValue)
                 {
                     Console.WriteLine("* int");
                 }
 
-                if (number >= 0 && number <= 4294967295)
+                if (number >= 0 && number <= uint.MaxValue)
                 {
                     Console.WriteLine("* uint");
                 }
 
-                if (number >= -9223372036854775808 && number <= 9223372036854775807)
+                if (number >= long.MinValue && number <= long.MaxValue)
                 {
                     Console.WriteLine("* long");
                 }
-
-                if (number < -9223372036854775808 && number > 9223372036854775807)
-                {
-                  Console.WriteLine(number);
-                Console.WriteLine("can't fit in any type");
-                }
             }
+
         }
     }
+}
 

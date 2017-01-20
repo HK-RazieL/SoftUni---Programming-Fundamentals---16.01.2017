@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCI
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\bin\Debug\_17.PrintPartOfASCIITable.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\bin\Debug\_17.PrintPartOfASCIITable.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.pdb

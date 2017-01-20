@@ -11,22 +11,20 @@ namespace _15.FastPrimeChecker
         static void Main(string[] args)
         {
             int number = int.Parse(Console.ReadLine());
-            var i = 0;
-            bool result = true;
 
-            for (i = 0; i <= number; i++)
-            {
-                for (int j = 2; j <= Math.Sqrt(i); j++)
+                for (int i = 2; i <= number; i++)
                 {
-                    if (i % j == 0)
+                    bool result = true;
+
+                    for (int j = 2; j <= Math.Sqrt(i); j++)
                     {
-                        result = false;
-                        break;
+                       if (i % j == 0)
+                        { 
+                                result = false;
+                                break;
+                        }
                     }
-
-                }
-
-                Console.WriteLine($"{i} is prime -> {result}");
+                Console.WriteLine($"{i} -> {result}");
             }
         }
     }

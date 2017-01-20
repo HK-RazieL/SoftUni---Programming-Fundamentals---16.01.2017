@@ -1,1 +1,7 @@
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\08. EmployeeData\bin\Debug\_08.EmployeeData.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\bin\Debug\_08.EmployeeData.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\bin\Debug\_08.EmployeeData.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\bin\Debug\_08.EmployeeData.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\obj\Debug\08. EmployeeData.csprojResolveAssemblyReference.cache
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\obj\Debug\_08.EmployeeData.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\08. EmployeeData\obj\Debug\_08.EmployeeData.pdb

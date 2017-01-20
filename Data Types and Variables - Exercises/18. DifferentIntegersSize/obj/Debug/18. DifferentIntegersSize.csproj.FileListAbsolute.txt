@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntege
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\bin\Debug\_18.DifferentIntegersSize.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\18. DifferentIntegersSize\bin\Debug\_18.DifferentIntegersSize.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.pdb
