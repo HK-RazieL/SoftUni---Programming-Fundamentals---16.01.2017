@@ -1,0 +1,6 @@
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.exe.config
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.exe
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\bin\Debug\_02.SignOfIntegerNumber.pdb
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\obj\Debug\02. SignOfIntegerNumber.csprojResolveAssemblyReference.cache
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\obj\Debug\_02.SignOfIntegerNumber.exe
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\02. SignOfIntegerNumber\obj\Debug\_02.SignOfIntegerNumber.pdb
