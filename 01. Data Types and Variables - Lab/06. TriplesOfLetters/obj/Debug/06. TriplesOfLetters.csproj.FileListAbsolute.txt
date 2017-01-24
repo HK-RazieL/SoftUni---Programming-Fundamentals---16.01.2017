@@ -1,6 +1,0 @@
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\bin\Debug\_06.TriplesOfLetters.exe.config
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\bin\Debug\_06.TriplesOfLetters.exe
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\bin\Debug\_06.TriplesOfLetters.pdb
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\obj\Debug\_06.TriplesOfLetters.exe
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\obj\Debug\_06.TriplesOfLetters.pdb
-c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\06. TriplesOfLetters\obj\Debug\06. TriplesOfLetters.csprojResolveAssemblyReference.cache

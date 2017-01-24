@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.pdb

@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\bin\Debug\_12.RectangleProperties.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\bin\Debug\_12.RectangleProperties.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\bin\Debug\_12.RectangleProperties.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.pdb

@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\bin\Debug\_18.DifferentIntegersSize.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\bin\Debug\_18.DifferentIntegersSize.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\bin\Debug\_18.DifferentIntegersSize.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\18. DifferentIntegersSize\obj\Debug\_18.DifferentIntegersSize.pdb

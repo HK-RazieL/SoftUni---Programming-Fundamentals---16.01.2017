@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\bin\Debug\_17.PrintPartOfASCIITable.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\bin\Debug\_17.PrintPartOfASCIITable.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\bin\Debug\_17.PrintPartOfASCIITable.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\17. PrintPartOfASCIITable\obj\Debug\_17.PrintPartOfASCIITable.pdb

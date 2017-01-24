@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\11. ConvertSpeedUnits\bin\Debug\_11.ConvertSpeedUnits.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\11. ConvertSpeedUnits\obj\Debug\_11.ConvertSpeedUnits.pdb

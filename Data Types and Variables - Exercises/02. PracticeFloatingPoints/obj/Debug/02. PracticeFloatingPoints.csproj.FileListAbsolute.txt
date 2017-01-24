@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\02. PracticeFloatingPoints\bin\Debug\_02.PracticeFloatingPoints.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\02. PracticeFloatingPoints\obj\Debug\_02.PracticeFloatingPoints.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\02. PracticeFloatingPoints\obj\Debug\_02.PracticeFloatingPoints.pdb

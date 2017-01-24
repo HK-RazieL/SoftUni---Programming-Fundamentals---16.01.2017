@@ -1,6 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\bin\Debug\_16.ComparingFloats.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\bin\Debug\_16.ComparingFloats.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\bin\Debug\_16.ComparingFloats.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\obj\Debug\16. ComparingFloats.csprojResolveAssemblyReference.cache
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\obj\Debug\_16.ComparingFloats.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\16. ComparingFloats\obj\Debug\_16.ComparingFloats.pdb

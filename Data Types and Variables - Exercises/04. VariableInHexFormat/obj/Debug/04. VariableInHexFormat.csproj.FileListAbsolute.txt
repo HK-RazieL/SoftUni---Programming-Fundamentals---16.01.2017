@@ -1,5 +1,0 @@
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.exe.config
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\bin\Debug\_04.VariableInHexFormat.pdb
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.exe
-D:\Repositories\SoftUni\Data Types and Variables - Exercises\04. VariableInHexFormat\obj\Debug\_04.VariableInHexFormat.pdb
