@@ -7,13 +7,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello,Name!", "01. Hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. MaxMethod", "02. MaxMethod\02. MaxMethod.csproj", "{E10CFA81-416B-447E-BE75-C43CB12DAD39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. EnglishNameOfLastDigit", "C:\Users\RazieL\Desktop\03. EnglishNameOfLastDigit\03. EnglishNameOfLastDigit.csproj", "{462FD9FF-EE8B-48BC-A702-32109D4E937F}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. NumbersInReversedOrder", "04. NumbersInReversedOrder\04. NumbersInReversedOrder.csproj", "{43FB993C-9FD4-4A79-A95D-94CA5F061F10}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. FibonacciNumbers", "05. FibonacciNumbers\05. FibonacciNumbers.csproj", "{91E50676-E807-49A0-BD9C-BEE7A7CD7979}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. PrimeChecker", "06. PrimeChecker\06. PrimeChecker.csproj", "{A378B60B-8865-4C90-9EF9-D6257D486165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. EnglishNameOfLastDigit", "03. EnglishNameOfLastDigit\03. EnglishNameOfLastDigit.csproj", "{462FD9FF-EE8B-48BC-A702-32109D4E937F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		{E10CFA81-416B-447E-BE75-C43CB12DAD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E10CFA81-416B-447E-BE75-C43CB12DAD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E10CFA81-416B-447E-BE75-C43CB12DAD39}.Release|Any CPU.Build.0 = Release|Any CPU
-		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{43FB993C-9FD4-4A79-A95D-94CA5F061F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{43FB993C-9FD4-4A79-A95D-94CA5F061F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43FB993C-9FD4-4A79-A95D-94CA5F061F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{A378B60B-8865-4C90-9EF9-D6257D486165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A378B60B-8865-4C90-9EF9-D6257D486165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A378B60B-8865-4C90-9EF9-D6257D486165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{462FD9FF-EE8B-48BC-A702-32109D4E937F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
