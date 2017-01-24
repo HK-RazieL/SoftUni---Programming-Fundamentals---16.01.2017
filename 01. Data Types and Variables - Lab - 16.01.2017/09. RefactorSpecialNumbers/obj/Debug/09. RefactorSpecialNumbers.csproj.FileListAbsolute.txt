@@ -1,0 +1,6 @@
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\bin\Debug\_09.RefactorSpecialNumbers.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\bin\Debug\_09.RefactorSpecialNumbers.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\bin\Debug\_09.RefactorSpecialNumbers.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\obj\Debug\09. RefactorSpecialNumbers.csprojResolveAssemblyReference.cache
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\obj\Debug\_09.RefactorSpecialNumbers.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\09. RefactorSpecialNumbers\obj\Debug\_09.RefactorSpecialNumbers.pdb

@@ -1,0 +1,1 @@
+c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\02. CircleArea(Precision 12)\bin\Debug\_02.CircleArea_Precision_12_.exe.config

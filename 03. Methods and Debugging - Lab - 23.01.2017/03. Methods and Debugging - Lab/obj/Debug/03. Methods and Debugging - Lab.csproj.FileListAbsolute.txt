@@ -1,0 +1,2 @@
+D:\Repositories\SoftUni\03. Methods and Debugging - Lab\03. Methods and Debugging - Lab\bin\Debug\_03.Methods_and_Debugging___Lab.exe.config
+D:\Repositories\SoftUni---Programming-Fundamentals---16.01.2017\03. Methods and Debugging - Lab\03. Methods and Debugging - Lab\bin\Debug\_03.Methods_and_Debugging___Lab.exe.config

@@ -1,0 +1,7 @@
+c:\users\raziel\documents\visual studio 2015\Projects\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\obj\Debug\07. Greeting.csprojResolveAssemblyReference.cache
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\01. Data Types and Variables - Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

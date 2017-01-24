@@ -1,0 +1,6 @@
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.exe.config
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\bin\Debug\_10.CenturiesToNanoseconds.pdb
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\obj\Debug\10. CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\obj\Debug\_10.CenturiesToNanoseconds.exe
+D:\Repositories\SoftUni\Data Types and Variables - Exercises\10. CenturiesToNanoseconds\obj\Debug\_10.CenturiesToNanoseconds.pdb
