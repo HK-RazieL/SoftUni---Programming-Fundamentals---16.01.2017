@@ -10,19 +10,23 @@ namespace _11.ConvertSpeedUnits
     {
         static void Main(string[] args)
         {
-            var distanceInMeters = int.Parse(Console.ReadLine());
-            var hours = int.Parse(Console.ReadLine());
-            var minutes = int.Parse(Console.ReadLine());
-            var seconds = int.Parse(Console.ReadLine());
+            var distanceInMeters = float.Parse(Console.ReadLine());
+            var hours = float.Parse(Console.ReadLine());
+            var minutes = float.Parse(Console.ReadLine());
+            var seconds = float.Parse(Console.ReadLine());
 
             float timeInSeconds = (((hours * 60)) * 60) + (minutes * 60) + seconds;
             float timeInHours = (timeInSeconds / 60) / 60;
             float distanceInKilometers = distanceInMeters / 1000;
-            float distanceInMiles = distanceInKilometers * 0.621371192f;
+            float distanceInMiles = distanceInMeters / 1609;
 
-            Console.WriteLine(distanceInMeters / timeInSeconds);
-            Console.WriteLine(distanceInKilometers / timeInHours);
-            Console.WriteLine(distanceInMiles / timeInHours);
+            float metersPerSecond = (distanceInMeters / timeInSeconds);
+            float kilometersPerHour = distanceInKilometers / timeInHours;
+            float milesPerHour = distanceInMiles / timeInHours;
+
+            Console.WriteLine($"{metersPerSecond}");
+            Console.WriteLine($"{kilometersPerHour}");
+            Console.WriteLine($"{milesPerHour}");
         }
     }
 }

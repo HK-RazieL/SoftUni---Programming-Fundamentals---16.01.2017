@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAnd
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\bin\Debug\_14.IntegerToHexAndBinary.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\bin\Debug\_14.IntegerToHexAndBinary.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\14. IntegerToHexAndBinary\obj\Debug\_14.IntegerToHexAndBinary.pdb

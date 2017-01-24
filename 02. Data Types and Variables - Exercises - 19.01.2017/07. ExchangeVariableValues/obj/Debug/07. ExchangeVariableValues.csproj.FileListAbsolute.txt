@@ -1,1 +1,2 @@
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\07. ExchangeVariableValues\bin\Debug\_07.ExchangeVariableValues.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\07. ExchangeVariableValues\bin\Debug\_07.ExchangeVariableValues.exe.config

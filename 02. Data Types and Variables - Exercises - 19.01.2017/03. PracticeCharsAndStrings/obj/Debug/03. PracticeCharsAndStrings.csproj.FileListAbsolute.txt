@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAn
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\obj\Debug\_03.PracticeCharsAndStrings.pdb

@@ -15,7 +15,7 @@ namespace _17.PrintPartOfASCIITable
 
             for (char i = (char)firstNumber; i <= secondNumber; i++)
             {
-                Console.Write(i);
+                Console.Write($"{i} ");
             }
         }
     }

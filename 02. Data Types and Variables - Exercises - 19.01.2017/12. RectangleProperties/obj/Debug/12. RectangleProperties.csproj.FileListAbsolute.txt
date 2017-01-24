@@ -3,3 +3,6 @@ D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProper
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\bin\Debug\_12.RectangleProperties.pdb
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.exe
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.pdb
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\12. RectangleProperties\bin\Debug\_12.RectangleProperties.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.exe
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\12. RectangleProperties\obj\Debug\_12.RectangleProperties.pdb

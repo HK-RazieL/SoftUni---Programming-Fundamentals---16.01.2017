@@ -1,1 +1,2 @@
 D:\Repositories\SoftUni\Data Types and Variables - Exercises\13. VowelOrDigit\bin\Debug\_13.VowelOrDigit.exe.config
+E:\Programs\GitHub Repositories\SoftUni---Programming-Fundamentals---16.01.2017\Data Types and Variables - Exercises\13. VowelOrDigit\bin\Debug\_13.VowelOrDigit.exe.config
