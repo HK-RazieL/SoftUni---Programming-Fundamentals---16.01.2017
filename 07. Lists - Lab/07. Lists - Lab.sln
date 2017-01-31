@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. RemoveNegativesAndReverse", "01. RemoveNegativesAndReverse\01. RemoveNegativesAndReverse.csproj", "{6E128103-0FD8-4C63-8844-EDEF10B9DC06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. AppendLists", "02. AppendLists\02. AppendLists.csproj", "{5A777111-F3C5-483D-BF80-F2632672D7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. SumAdjacentEqualNumbers", "03. SumAdjacentEqualNumbers\03. SumAdjacentEqualNumbers.csproj", "{F48E62E8-A939-42E4-BADD-06B24F1A34C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E128103-0FD8-4C63-8844-EDEF10B9DC06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E128103-0FD8-4C63-8844-EDEF10B9DC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E128103-0FD8-4C63-8844-EDEF10B9DC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E128103-0FD8-4C63-8844-EDEF10B9DC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A777111-F3C5-483D-BF80-F2632672D7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A777111-F3C5-483D-BF80-F2632672D7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A777111-F3C5-483D-BF80-F2632672D7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A777111-F3C5-483D-BF80-F2632672D7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48E62E8-A939-42E4-BADD-06B24F1A34C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48E62E8-A939-42E4-BADD-06B24F1A34C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48E62E8-A939-42E4-BADD-06B24F1A34C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48E62E8-A939-42E4-BADD-06B24F1A34C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
