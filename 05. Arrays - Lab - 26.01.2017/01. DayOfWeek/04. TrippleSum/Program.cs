@@ -1,6 +1,7 @@
 ﻿namespace _04.TrippleSum
 {
     using System;
+    using System.Linq;
 
     public class TrippleSum
     {
@@ -8,12 +9,13 @@
         {
             var arrayLength = Console.ReadLine();
             string[] array = arrayLength.Split(' ');
-            var numbers = new int[array.Length];
+            var numbers = new decimal[array.Length];
+            var counter = 0;
 
             for (int i = 0; i < array.Length; i++)
             {
                 var numbersInText = array[i];
-                var newNumbers = int.Parse(numbersInText);
+                var newNumbers = decimal.Parse(numbersInText);
                 numbers[i] = newNumbers;
             }
 
@@ -21,14 +23,19 @@
             {
                 for (int j = 0; j < numbers.Length; j++)
                 {
-                    for (int l = 0; l < numbers.Length; l++)
+                    var sum = numbers[i] + numbers[j];
+
+                    if (numbers.Contains(sum) && i < j)
                     {
-                        if (numbers[i] + numbers[j] == numbers[l] && i < j)
-                        {
-                            Console.WriteLine($"{numbers[i]} + {numbers[j]} == {numbers[l]}");
-                        }
-                    }
+                        Console.WriteLine($"{numbers[i]} + {numbers[j]} == {sum}");
+                        counter++;
+                    }                        
                 }
+            }
+
+            if (counter == 0)
+            {
+                Console.WriteLine("No");
             }
         }
     }
