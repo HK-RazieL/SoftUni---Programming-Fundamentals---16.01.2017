@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MaxSequenceOfEqualEleme
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SumReversedNumbers", "04. SumReversedNumbers\04. SumReversedNumbers.csproj", "{47460927-7E8C-4003-93C2-0F594FD8C724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. BombNumbers", "5. BombNumbers\5. BombNumbers.csproj", "{43C3951A-E2AD-4011-A32C-059FA79313C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. BombNumbers", "5. BombNumbers\05. BombNumbers.csproj", "{43C3951A-E2AD-4011-A32C-059FA79313C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
