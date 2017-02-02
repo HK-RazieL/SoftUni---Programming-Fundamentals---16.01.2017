@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. MaxSequenceOfEqualElements", "01. MaxSequenceOfEqualElements\01. MaxSequenceOfEqualElements.csproj", "{1F103E8F-241E-4982-A60D-B4F1918C40C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SumReversedNumbers", "04. SumReversedNumbers\04. SumReversedNumbers.csproj", "{47460927-7E8C-4003-93C2-0F594FD8C724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. BombNumbers", "5. BombNumbers\5. BombNumbers.csproj", "{43C3951A-E2AD-4011-A32C-059FA79313C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1F103E8F-241E-4982-A60D-B4F1918C40C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F103E8F-241E-4982-A60D-B4F1918C40C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F103E8F-241E-4982-A60D-B4F1918C40C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47460927-7E8C-4003-93C2-0F594FD8C724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47460927-7E8C-4003-93C2-0F594FD8C724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47460927-7E8C-4003-93C2-0F594FD8C724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47460927-7E8C-4003-93C2-0F594FD8C724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43C3951A-E2AD-4011-A32C-059FA79313C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C3951A-E2AD-4011-A32C-059FA79313C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C3951A-E2AD-4011-A32C-059FA79313C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C3951A-E2AD-4011-A32C-059FA79313C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
